@@ -1,19 +1,19 @@
-#add
+#add implement
 def add(x,y):
     return x+y 
     
-# mul
+# mul implement
 def mul(x,y):
     return x*y  
     
-#div 
-def div(x,y):
+#div implement  
+def div(x, y):
  return x/y     //created on master agter branching bug456
 
     return x*y
     
     
-#sub
+#sub implement
 def sub(x,y):
     return x-y
 
